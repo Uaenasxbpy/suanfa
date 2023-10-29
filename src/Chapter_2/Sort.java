@@ -1,6 +1,4 @@
 package Chapter_2;
-import com.sun.org.apache.bcel.internal.generic.SWAP;
-
 import java.util.Random;
 
 /**
