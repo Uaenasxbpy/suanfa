@@ -1,5 +1,4 @@
 package Chapter_2;
-
 import java.util.Scanner;
 
 /**
